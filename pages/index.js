@@ -43,7 +43,7 @@ export default function Home({ exploreData, cardsData }) {
         <LargeCard
           img="https://links.papareact.com/4cj"
           title="The Greatest Outdoors"
-          description="Whislists curated by Aribnb."
+          description="Whislists curated by Aibnb."
           buttonText="Get Inspired "
         />
       </main>
