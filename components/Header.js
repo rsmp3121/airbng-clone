@@ -76,6 +76,7 @@ function Header({ placeholder }) {
           placeholder={placeholder || "Search..."}
         />
         <SearchIcon
+          onClick={search}
           className="
         hidden md:inline-flex 
         h-8 

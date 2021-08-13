@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Header from "../components/Header";
+
 function Banner() {
   return (
     <div className="relative h-[300px] sm:h-[350px] lg:h-[450px] xl:h-[500px] 2xl:h=[550px]">
